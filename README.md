@@ -1,2 +1,3 @@
-# mini-code-reviewer-vx86
-An automated code review tool for modern development workflows
+# Mini Code Reviewer Vx86
+
+A automated code review tool for modern development workflows.
